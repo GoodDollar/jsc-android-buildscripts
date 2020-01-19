@@ -1,5 +1,7 @@
 [![npm version](https://badge.fury.io/js/jsc-android.svg)](https://badge.fury.io/js/jsc-android)
-[![CircleCI](https://circleci.com/gh/react-native-community/jsc-android-buildscripts.svg?style=svg)](https://circleci.com/gh/react-native-community/jsc-android-buildscripts)
+[![CircleCI](https://circleci.com/gh/GoodDollar/jsc-android-buildscripts.svg?style=svg)](https://circleci.com/gh/GoodDollar/jsc-android-buildscripts)
+
+# This fork enables JIT for optimized performance, for example when using pure javascript cryptography
 
 # JSC build scripts for Android
 
