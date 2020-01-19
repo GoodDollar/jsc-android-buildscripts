@@ -9,6 +9,8 @@ jobs:
       SDK_VERSION: sdk-tools-linux-3859397.zip
       ANDROID_HOME: /home/circleci/android-sdk
       ANDROID_NDK: /home/circleci/android-ndk
+      JSC_FIT_JIT: OFF
+      JSC_DFG_JIT: OFF
     steps:
       - checkout
       - run:
